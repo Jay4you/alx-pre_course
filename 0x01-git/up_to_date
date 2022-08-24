@@ -1,1 +1,1 @@
-How to be up to date in git, you will first add the file with a git add . and then you commit and write commit message like this, git commit -m "How to be up to date in git", then after that you push with the git push
+I used git pull to reconcigit pull to pull changes made from git interface to my local device to update local device to update local device
